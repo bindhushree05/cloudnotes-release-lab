@@ -1,7 +1,7 @@
 .git
 .terraform
 terraform
-.env
+.deps
 node_modules
 .generated
 artifacts
